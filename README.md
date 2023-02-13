@@ -1,6 +1,6 @@
 # Bootstrap Hero for Coaching Website
 
-![Bootstrap Hero for Coaching Website Preview](./preview.png)
+![Bootstrap Hero for Coaching Website Preview](./perview.png)
 
 This project is aimed at creating a visually appealing and responsive coaching website using the Bootstrap framework. The project incorporates various design elements to create an attractive and user-friendly website for coaches to showcase their services and connect with potential clients. The website is built using HTML, CSS, and JavaScript and includes features such as a responsive navigation bar, interactive forms, and customized design elements.
 
