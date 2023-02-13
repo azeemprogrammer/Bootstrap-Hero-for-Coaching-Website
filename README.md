@@ -8,6 +8,10 @@ This project is aimed at creating a visually appealing and responsive coaching w
 
 To get started with this project, simply clone the repository and open the `index.html` file in your web browser. The website is designed to be responsive and should work on a variety of devices.
 
+## Developer
+
+This project was developed by M Azeem, a full stack developer and blogger with experience in building web applications using a variety of technologies, including HTML, CSS, JavaScript, React, Node.js, and MongoDB. Azeem is passionate about using technology to solve real-world problems and enjoys working on projects that challenge him to learn new skills and improve his existing ones.
+
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and create a new branch for your changes. Once you have made your changes, submit a pull request and we will review your changes.
